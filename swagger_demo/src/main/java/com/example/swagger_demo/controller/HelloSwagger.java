@@ -19,7 +19,7 @@ private Repository repository;
     public String swagger()
     {
 
-        return "Hello Swagger anil kumar chutiya hai";
+        return "Hello Swagger";
 
     }
 
